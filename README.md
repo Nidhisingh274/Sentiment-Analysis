@@ -1,3 +1,3 @@
 # Streamlit-App
 
-1. Decoder-only transformer architecture
+1. Encoder-only transformer architecture
